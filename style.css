@@ -220,6 +220,7 @@ input[type="radio"]{
     color: #fff;
     padding: 10px 20px;
     border-radius: 3px;
+    cursor: pointer;
 }
 .copyright-txt{
     font-size: 14px;
